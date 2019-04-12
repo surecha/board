@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-1222
-<div><div><jsp:include page="a.jsp" /></div></div>
+<a href="http://www.naver.com">³×ÀÌ¹ö</a>
 </body>
 </html>
