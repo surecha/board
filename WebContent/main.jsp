@@ -8,7 +8,6 @@
 </head>
 <body>
 1222
-test1
 <div><div><jsp:include page="a.jsp" /></div></div>
 </body>
 </html>
