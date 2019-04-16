@@ -10,6 +10,7 @@
 1222
 test2
 test3
+test4
 <div><div><jsp:include page="a.jsp" /></div></div>
 </body>
 </html>
